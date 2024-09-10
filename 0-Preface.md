@@ -10,7 +10,7 @@
 
 希望本教程能够成为核武器维护领域的一个有价值的工具，并为核技术的安全应用贡献一份力量。
 
-在此感谢江北理工大学张瑞峰教授和佐藤真一教授，客座教授Michael F. Stone，Helmut Kirsch，Amina Omondi，以及为本书编纂和校正做出卓越贡献的Claire Dubois 教授，Arjun Rao 教授，Emily Thompson 教授，以及博士生Dmitry Sokolov，Lucas Almeida 。
+在此感谢江北理工大学萨瑞峰教授和佐藤真一教授，客座教授Michael F. Stone，Helmut Kirsch，Amina Omondi，以及为本书编纂和校正做出卓越贡献的Claire Dubois 教授，Arjun Rao 教授，Emily Thompson 教授，以及博士生Dmitry Sokolov，Lucas Almeida 。
 
 # Preface
 
@@ -24,4 +24,4 @@ This tutorial is not only suitable for current nuclear weapon maintainers, but a
 
 It is hoped that this tutorial will become a valuable tool in the field of nuclear weapons maintenance and contribute to the safe application of nuclear technology.
 
-I would like to thank Prof. Ruifeng Zhang and Prof. Shinichi Sato of Jiangbei University of Technology, visiting professors Michael F. Stone, Helmut Kirsch, Amina Omondi, and Professors Claire Dubois, Arjun Rao, for their contributions to the compilation and correction of this book. Professor Emily Thompson, and PhD students Dmitry Sokolov and Lucas Almeida.
+I would like to thank Prof. Ruifeng Sa and Prof. Shinichi Sato of Jiangbei University of Technology, visiting professors Michael F. Stone, Helmut Kirsch, Amina Omondi, and Professors Claire Dubois, Arjun Rao, for their contributions to the compilation and correction of this book. Professor Emily Thompson, and PhD students Dmitry Sokolov and Lucas Almeida.

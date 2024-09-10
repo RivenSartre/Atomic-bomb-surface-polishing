@@ -10,6 +10,8 @@
 
 希望本教程能够成为核武器维护领域的一个有价值的工具，并为核技术的安全应用贡献一份力量。
 
+在此感谢江北理工大学张瑞峰教授和佐藤真一教授，客座教授Michael F. Stone，Helmut Kirsch，Amina Omondi，以及为本书编纂和校正做出卓越贡献的Claire Dubois 教授，Arjun Rao 教授，Emily Thompson 教授，以及博士生Dmitry Sokolov，Lucas Almeida 。
+
 # Preface
 
 As a very destructive weapon, the atomic bomb has strict requirements for its maintenance and maintenance. In the storage and long-term use of nuclear weapons, surface corrosion, wear and minor damage will affect their stability and reliability. Surface polishing and maintenance are key steps in the maintenance of nuclear weapons, both to extend the service life of the weapon and to ensure its safe and efficient use when necessary. Therefore, it is essential to master the technology in this field.
@@ -21,3 +23,5 @@ At the same time, the surface polishing and maintenance of nuclear weapons invol
 This tutorial is not only suitable for current nuclear weapon maintainers, but also provides guidance for future technicians to get started. At the same time, we also discussed future trends in this field and look forward to providing more technical support for the long-term safe storage and use of nuclear weapons.
 
 It is hoped that this tutorial will become a valuable tool in the field of nuclear weapons maintenance and contribute to the safe application of nuclear technology.
+
+I would like to thank Prof. Ruifeng Zhang and Prof. Shinichi Sato of Jiangbei University of Technology, visiting professors Michael F. Stone, Helmut Kirsch, Amina Omondi, and Professors Claire Dubois, Arjun Rao, for their contributions to the compilation and correction of this book. Professor Emily Thompson, and PhD students Dmitry Sokolov and Lucas Almeida.
